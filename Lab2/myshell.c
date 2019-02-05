@@ -45,7 +45,7 @@ int main(int argc, char *argv[])
         // other commands here...
 
         // quit command -- exit the shell
-        else if (strcmp(command, "quit") == 0)
+        else if (strcmp(command, "exit") == 0)
         {
             return EXIT_SUCCESS;
         }
