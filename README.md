@@ -3,7 +3,7 @@
 
 **clear** – Is used to clear the screen
 
-**dir** – Lists the contents of the directory (ls can be used alternatively)
+**ls** – Lists the contents of the directory (ls can be used alternatively)
 
 **environ** – List all the evironment strings
  
@@ -13,6 +13,6 @@
 
 **pause** - Pause operation of the shell until 'Enter' is pressed.
 
-**quit** - Quit the shell
+**exit** - Quit the shell
 
 
