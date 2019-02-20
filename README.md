@@ -1,7 +1,7 @@
 ﻿# Operating-Systems
 **cd &lt;directory&gt;** - It changes the current directory to the &lt;directory&gt; that is entered. If the directory is not present it will display an error. We can also use this to go back in a directory by using “cd ..”
 
-**clear** – Is used to clear the screen
+**clr** – Is used to clear the screen
 
 **ls** – Lists the contents of the directory (ls can be used alternatively)
 
